@@ -48,9 +48,9 @@
     "@types/quill": "*",
     "@types/react": "*",
     "create-react-class": "^15.6.0",
-    "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
     "quill": "^1.2.6",
+    "ramda-quill": "^0.0.1",
     "react-dom-factories": "^1.0.0"
   },
   "peerDependencies": {
